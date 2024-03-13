@@ -1,0 +1,13 @@
+/* Styles for About.tsx */
+.about {
+    background-color: #e8e8e8;
+    padding: 20px;
+    border: 2px solid #aaa;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.title {
+    font-size: 22px;
+    color: #444;
+}
